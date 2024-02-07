@@ -17,4 +17,39 @@ img{
     border-radius: 5px;
     margin: 5px;
 }
+.container{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.item1{
+    height: 300px;
+    width: 300px;
+    background-color: cadetblue;
 
+}
+.item2{
+    height: 300px;
+    width: 300px;
+    background-color: chocolate;
+
+}
+.item3{
+    height: 300px;
+    width: 300px;
+    background-color: salmon;
+
+}
+.item4{
+    height: 300px;
+    width: 300px;
+    background-color: seagreen;
+
+}
+.item5{
+    height: 300px;
+    width: 300px;
+    background-color: aliceblue;
+}
